@@ -3,8 +3,8 @@
 ## My name is SeungHyun LEE
 - I'm from Korea
 - I Love People, so i like talk to someone
-- Now i'm studing programing and machin learning in bootcamp(Fast Campus), after finish bootcamp, \n i hope work in seoul,korea
-- My hobi is drawing something, read a book in cafe and exercise
+- Now i'm studing programing and machine learning in bootcamp(Fast Campus), after finish bootcamp, i hope work in seoul,korea
+- My hobby is drawing something, read a book in cafe and exercise in gym
 
 <!--
 **LazyLEE1008/LazyLEE1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
